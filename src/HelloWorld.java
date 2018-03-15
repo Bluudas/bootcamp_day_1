@@ -8,3 +8,7 @@ public class HelloWorld {
 
      */
 }
+    private String sayHelloToUser(String name) {
+        String result = "Labas" + name;
+        return result;
+    }
