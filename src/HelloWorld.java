@@ -12,3 +12,10 @@ public class HelloWorld {
         String result = "Labas" + name;
         return result;
     }
+
+
+
+    //git status
+//git add src .
+//git commit -m "komentaras"
+//git push -u origin master
