@@ -7,11 +7,12 @@ public class HelloWorld {
     pastraipos komentavimas
 
      */
-}
     private String sayHelloToUser(String name) {
         String result = "Labas" + name;
         return result;
     }
+}
+
 
 
 
